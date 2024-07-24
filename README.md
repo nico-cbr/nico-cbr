@@ -2,6 +2,10 @@
 <br> <br> <br>
 <div align="center">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=nico-cbr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+  <br> <br> <br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nico-cbr&theme=Default)]([https://github.com/Ashutosh00710/github-readme-activity-graph])
   
 </div>
 <br> <br> <br>
