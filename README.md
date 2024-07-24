@@ -1,5 +1,5 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E1AFD1&height=120&section=header"/>
-  <br> <br> <br>
+  <br> 
   <div align="center">
     <img height="185em" src="https://github-readme-stats.vercel.app/api?username=nico-cbr&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
 
