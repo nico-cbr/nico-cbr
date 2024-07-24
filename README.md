@@ -1,6 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E1AFD1&height=120&section=header"/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nico-cbr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=nico-cbr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   
 </div>
 
@@ -9,3 +10,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{nico-cbr}/count.svg" /></p> 
 <br>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E1AFD1&height=120&section=footer"/>
