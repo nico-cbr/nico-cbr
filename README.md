@@ -4,8 +4,7 @@
     <img height="185em" src="https://github-readme-stats.vercel.app/api?username=nico-cbr&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
 
 <br> <br><br>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nico-cbr&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nico-cbr&layout=donut&langs_count=25&theme=omni"/>
 
 
   <br> <br> <br>
