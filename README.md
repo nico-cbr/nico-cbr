@@ -3,6 +3,9 @@
   <div align="center">
     <img height="185em" src="https://github-readme-stats.vercel.app/api?username=nico-cbr&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
 
+<br> <br><br>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nico-cbr&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
 
 
   <br> <br> <br>
