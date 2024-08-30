@@ -22,9 +22,8 @@
   <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;
   <img  src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="Linguagem C" width="50" height="50"/>
   &nbsp;
-
-
-    
+   <img  src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/89970707-fd3d-46e9-897e-7e51ba07ba4c" alt="Linguagem Lua" width="50" height="50"/>
+  &nbsp;
 </div>
 
 <br> <br> <br>
