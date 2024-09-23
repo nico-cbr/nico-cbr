@@ -25,6 +25,8 @@
   <br>
    <img  src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/89970707-fd3d-46e9-897e-7e51ba07ba4c" alt="Linguagem Lua" width="50" height="50"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Linguagem Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" alt="Linguagem PHP" width="50" height="50"/>&nbsp;
+  <br>
 </div>
 
 <br> <br> <br>
