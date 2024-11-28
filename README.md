@@ -5,7 +5,7 @@
 
 <br> <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nico-cbr&langs_count=8&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nico-cbr&langs_count=8&theme=omni)
 
   <br> <br> <br>
 
