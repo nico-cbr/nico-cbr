@@ -4,8 +4,8 @@
     <img height="185em" src="https://github-readme-stats.vercel.app/api?username=nico-cbr&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
 
 <br> <br><br>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nico-cbr&layout=donut&langs_count=25&theme=omni"/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nico-cbr&langs_count=8&theme=dracula)
 
   <br> <br> <br>
 
