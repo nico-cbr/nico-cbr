@@ -1,17 +1,5 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E1AFD1&height=120&section=header"/>
-  <br> 
-  <div align="center">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=nico-cbr&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-
-<br> <br><br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nico-cbr&langs_count=8&theme=omni)
-
-  <br> <br> <br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nico-cbr&theme=Default)]([https://github.com/Ashutosh00710/github-readme-activity-graph])
-
-  <br> <br> <br>
+   <br>
 
   ##  &nbsp;Caixa de Ferramentas 
 <div align="center"> 
