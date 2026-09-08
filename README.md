@@ -1,6 +1,6 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E1AFD1&height=120&section=header"/>
    <br>
-
+<div align="center">
   ##  &nbsp;Caixa de Ferramentas 
 <div align="center"> 
   <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;
@@ -20,5 +20,5 @@
 <br> <br> <br>
     
 ![](https://komarev.com/ghpvc/?username=nico-cbr&color=ff69b4&style=for-the-badge&label=Curiosos&abbreviated=true)
-
+</div>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E1AFD1&height=120&section=footer"/>
