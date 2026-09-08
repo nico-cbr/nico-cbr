@@ -1,6 +1,16 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E1AFD1&height=120&section=header"/>
    <br>
 <div align="center">
+  <br>
+  <h1 align="center">Oi, Eu sou a Nicoly</h1>
+  <h3 align="center">Tenho 20 anos e estou cursando Engenharia de Software no IFPR – Campus Paranavaí, conciliando a graduação com atuação profissional em tempo integral.
+
+Atuo na Companhia Melhoramentos Norte do Paraná (CMNP), em suporte de TI e administração de sistemas. No dia a dia, atendo chamados de helpdesk via Movidesk, administro acessos e permissões de usuários em sistemas internos, produzo documentação técnica e manuais e realizo validação de dados cadastrais e comunicação interna sobre processos e sistemas corporativos.
+
+Na formação técnica, tenho base em Python (lógica e algoritmos), controle de versão com Git e GitHub, e conhecimentos básicos em outras linguagens como: JavaScript, Java, C.
+
+Meu foco de carreira atual está voltado para sistemas embarcados, área para a qual venho direcionando meus estudos.</h3>
+  <br>
   ##  &nbsp;Caixa de Ferramentas 
 <div align="center"> 
   <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;
